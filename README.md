@@ -11,10 +11,6 @@ Nilesh Bank is a decentralized application (DApp) built on the Ethereum blockcha
 ### Installing
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/nilesh-bank.git
-    cd nilesh-bank
-    ```
 
 2. Install the dependencies:
     ```sh
